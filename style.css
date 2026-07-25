@@ -185,3 +185,7 @@ main{padding:3.5rem var(--pad) 4rem;}
 }
 .contact-form button[disabled]{opacity:.4;cursor:default;}
 .form-note{margin-top:1rem;}
+
+/* contact (email + phone only) */
+.contact .col-narrow{max-width:34rem;line-height:2;}
+.contact .col-narrow a{display:inline-block;}
