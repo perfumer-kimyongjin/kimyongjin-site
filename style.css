@@ -85,7 +85,7 @@ main{padding:3.5rem var(--pad) 4rem;}
 
 /* ---------- slideshow ---------- */
 .slideshow{position:relative;width:100%;overflow:hidden;}
-.slides{display:flex;transition:transform .5s ease;}
+.slides{display:flex;align-items:flex-start;transition:transform .5s ease;}
 .slides img{width:100%;flex:0 0 100%;height:auto;display:block;}
 .slideshow .arrow{
   position:absolute;top:0;bottom:0;width:38px;
